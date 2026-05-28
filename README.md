@@ -1,5 +1,7 @@
 # Reading Analytics Dashboard
 
+![Dashboard Overview](dashboard-overview.png)
+
 ## Overview
 This project analyzes personal reading habits from 2024-2026 using Excel.
 
@@ -7,7 +9,7 @@ The dahsboard tracks:
 - Most read genres
 - Higest rated genres
 - Books finished by month
-- Average reading duration
+- Average days to finish books
 - Most read authors
 - KPI metrics such as total books and pages read
 
