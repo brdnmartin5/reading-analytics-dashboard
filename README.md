@@ -1,4 +1,4 @@
-</> Markdown
+# Reading Analytics Dashboard
 
 ## Overview
 This project analyzes personal reading habits from 2024-2026 using Excel.
